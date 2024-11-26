@@ -4,6 +4,7 @@
 A React-based real-time chat application inspired by WhatsApp Web. The application includes a contact list, chat window, and message input box. It uses **IndexedDB** for offline capabilities and is styled to resemble a professional messaging app.
 
 ## Deployment Link-
+https://glowing-travesseiro-1a2f7b.netlify.app
 
 
 
